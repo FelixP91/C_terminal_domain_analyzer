@@ -13,8 +13,6 @@ import Bio.PDB.DSSP as DSSP
 from Bio.PDB import PDBParser
 from sklearn.utils import shuffle
 
-# https://www.alphafold.ebi.ac.uk/files/AF-A0A397IMH4-F1-model_v4.pdb
-
 
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
