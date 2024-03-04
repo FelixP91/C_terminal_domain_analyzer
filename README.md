@@ -1,6 +1,7 @@
 # C_terminal_domain_analyzer
 
-<p style="text-align: justify;">Bacterial tyrosinases are often expressed in a latent, enzymatically inactive state. 
+<p style="text-align: justify;">Bacterial tyrosinases feature a type III copper center in their active domain and 
+are often expressed in a latent, enzymatically inactive state. 
 This latency is caused by a specialized domain which is located at the C-terminal
 end of the enzyme and is, therefore, called "C-terminal domain".
 While all characterized tyrosinases from plants, fungi, and metazoa feature a 
